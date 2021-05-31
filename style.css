@@ -1,0 +1,12 @@
+ body {
+      font-family: cursive, sans-serif;
+      background: url("img/blue-snow.png");
+    }
+
+#card{
+  margin: 150px auto;
+}
+
+.kotak {
+  margin: 250px auto;
+}
