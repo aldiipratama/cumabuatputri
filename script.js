@@ -331,7 +331,7 @@ document.getElementById('klik').addEventListener('click', function(){
 														}, 2000);
 													});
 													new TypeIt("#teks", {
-													strings: ["Terimakasih."],
+													strings: ["Arigatou"],
 													startDelay: 500,
 													speed: 150,
 													loop: false,
@@ -614,7 +614,7 @@ document.getElementById('klik').addEventListener('click', function(){
 														}, 2000);
 													});
 													new TypeIt("#teks", {
-													strings: ["Terimakasih."],
+													strings: ["Arigatou"],
 													startDelay: 500,
 													speed: 150,
 													loop: false,
