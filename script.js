@@ -51,7 +51,6 @@ document.getElementById('klik').addEventListener('click', function(){
 	} = Swal.fire({
 		title: 'Masukkin Nama Kamu dulu',
 		input: 'text',
-		inputValue: 'Putri',
 		showCancelButton: true,
 		cancelButtonText: 'Gak jadi',
 		allowOutsideClick: false,
